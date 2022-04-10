@@ -1,0 +1,2 @@
+[31-Mar-2022 10:20:50 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 32768 bytes) in /home2/hjpuzyed/public_html/wp-content/plugins/woo-rave/includes/class-tbz-wc-rave-gateway.php on line 1040
+[31-Mar-2022 10:20:50 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home2/hjpuzyed/public_html/wp-includes/option.php on line 645
